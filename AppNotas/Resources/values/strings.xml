@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppNotas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtMaterias" >Materias </string>
+	<string name="listaMaterias">Lista de Materias</string>
+	<string name="listaEstudiantes">Lista de Estudiantes</string>
+	<string name="listaNotas">Notas por estudiante</string>
+	
+	<string name="AplicacionNotas">Aplicación de notas</string>
+	<string name="totalEstudiantes">Total de Estudiantes:  </string>
+	<string name="promedioNota">Promedio Nota:  </string>
+</resources>
